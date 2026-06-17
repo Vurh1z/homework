@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.form {
+    border: 2px solid black;
+    max-width: 260px;
+    border-radius: 5px;
+}
+
+legend {
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+input,
+textarea {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+textarea {
+    display: flex;
+}
+
+.message {
+    margin-top: -20px;
+}
+
+fieldset {
+    border: none;
+}
+
+textarea {
+    min-width: 170px;
+    min-height: 40px;
+    max-height: 80px;
+    resize: vertical;
+}
+
+.check {
+    display: inline;
+    cursor: pointer;
+}
+
+button {
+    display: block;
+    cursor: pointer;
+
+}
