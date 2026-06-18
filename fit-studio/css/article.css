@@ -1,0 +1,86 @@
+html {
+  font-family: Ubuntu, sans-serif;
+  font-weight: 400;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+.article {
+  padding-top: 80px;
+  margin-bottom: 120px;
+
+}
+
+.conteiner {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
+.article-title-mb {
+  margin-top: 80px;
+}
+
+.article-title {
+  font-weight: 600;
+  max-width: 596px;
+  margin-bottom: 40px;
+  font-family: Oswald;
+  line-height: 115%;
+  text-transform: uppercase;
+  color: #2C332F;
+}
+
+.article-title-large {
+  font-size: 48px;
+}
+
+.article-title-medium {
+  font-size: 36px;
+}
+
+.article-text {
+  margin-top: 20px;
+  font-family: Ubuntu;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  color: #535755;
+}
+
+.gym-img {
+  max-width: 1220px;
+  max-height: 512px;
+  margin-top: 80px;
+  width: 100%;
+}
+
+.article-list {
+  padding-left: 14px;
+}
+
+.article-item {
+  margin-bottom: 12px;
+}
+
+.art-party-fit {
+  max-width: 744px;
+  max-height: 42px;
+}
+
+.video {
+  max-width: 1220px;
+  max-height: 686px;
+  width: 100%;
+  margin-bottom: 20px;
+}
